@@ -13,15 +13,24 @@ requirements:
 -pip3
 
 You can install these with the script as well just uncomment: 
+
+Mac:
 -brew install python3
 -brew install pip3
 
-#change brew to apt-get if you are not a mac user.
+Linux:
+-apt-get install python3
+-apt-get install pip3
+
 
 How it works:
 
 It sets up a virtual environment in a Flask folder, then it installs the virualenv and activates it.
 No more hassles.
+
+cd into directory of flask-env.sh and use command:
+
+chmod u+x ./flask-env.sh
 
 run the bash script: ./flash-env.sh
 
