@@ -9,17 +9,17 @@ _/ ____\  | _____    _____|  | __           ____   _______  __
 ' 
 
 
-apt-get install python3
-apt-get install pip3
+#apt-get install python3
+#apt-get install pip3
 
-#mkdir 'Flask-env'
+mkdir 'Flask-env'
 
-#cd Flask-env
+cd Flask-env
 
-#pip3 install virtualenv
+pip3 install virtualenv
 
-#virtualenv env
+virtualenv env
 
-#source env/bin/activate
+source env/bin/activate
 
-#pip3 install flask flask-sqlalchemy 
+pip3 install flask flask-sqlalchemy 
