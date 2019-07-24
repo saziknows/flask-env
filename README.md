@@ -28,11 +28,19 @@ How it works:
 It sets up a virtual environment in a Flask folder, then it installs the virualenv and activates it.
 No more hassles.
 
-cd into directory of flask-env.sh and use command:
+run the bash script: 
 
-chmod u+x ./flask-env.sh
+Mac:
+cd into dir with mac-env.sh file then give permissions and make it executable:
+-$ chmod u+x ./mac-env.sh
+then launch:
+-$ ./mac-env.sh
 
-run the bash script: ./flash-env.sh
+Linux:
+cd into dir with linux-env.sh file then give permissions and make it executable:
+-$ chmod u+x ./linux-env.sh
+then launch:
+-$ ./linux-env.sh
 
 
 
