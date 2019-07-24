@@ -13,7 +13,7 @@ requirements:
 -pip3
 
 You can install these with the script as well just uncomment: 
--brew install python3 and 
+-brew install python3
 -brew install pip3
 
 #change brew to apt-get if you are not a mac user.
